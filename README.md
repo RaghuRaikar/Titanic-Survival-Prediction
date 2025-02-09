@@ -29,11 +29,17 @@ A bar plot illustrating survival rates across different ticket classes.
 
 🔹 *First-class passengers had the highest survival rate, followed by second-class, with third-class having the lowest survival rate.*
 
+### Survival Rate by Passenger Class
+![Survival Rate by Passenger Class](/survival_rate_by_class.png)
+
 ### **2\. Age Distribution of Survived vs. Not Survived**
 
 A histogram comparing age distributions of passengers who survived versus those who did not.
 
 🔹 *Younger passengers had a higher likelihood of survival compared to older passengers.*
+
+### Age Distribution of Survived vs. Not Survived
+![Age Distribution of Survived vs. Not Survived](/age_distribution.png)
 
 **Machine Learning Models**
 ---------------------------
